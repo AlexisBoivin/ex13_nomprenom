@@ -1,0 +1,34 @@
+<!DOCTYPE hmtl>
+<html>
+        <head>
+            <meta charset="utf-8">
+            <title>Exercices Police</title> 
+            <link rel="stylesheet" href="CSS/Exercice11.css">
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap" rel="stylesheet">
+            <script src="https://kit.fontawesome.com/bbacb404a7.js" crossorigin="anonymous"></script>
+        </head>
+        <body>
+            <div id="menu">
+                <div><h4 href="banniere1">Bill's saloon</h4></div>
+                <div><h4 href="banniere2">The Waterfall of Imladris</h4></div>
+            </div>
+            <div id="main">
+                <div><h2>Bannière1</h2></div>
+                <div id="test"><div id="banniere1">
+                     <h1 id="titre1">Bill's saloon</h1>
+                     
+                 </div></div>
+                 <div><h2>Bannière 2</h2></div>
+                 <div id=test2><div id="banniere2">
+                  
+                    <h1>The Waterfall of Imladris</h1>
+                    <button id="piton"><i class="fa-solid fa-landmark">Yahoo!</i></button>
+                 </div></div>
+                 
+            </div>
+
+            
+        </body>
+</html>
