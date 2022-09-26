@@ -74,3 +74,16 @@ transform: skew(180deg, 0);
 @keyframes shot{
     image
 }
+
+body{
+    display: grid;
+    font-size: 200%;
+    grid-area: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
